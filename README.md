@@ -339,9 +339,9 @@ showing the complete event-driven architecture and notification processing workf
 
 ## 👨‍💻 Author
 
-**T. Sai Jashwanth**
+**M.Siva Chandrika**
 
-GitHub: https://github.com/<YOUR_GITHUB_USERNAME>
+GitHub: https://github.com/<chandrika-2201>
 
 ---
 
